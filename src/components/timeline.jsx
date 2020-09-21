@@ -21,7 +21,11 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Internship at Juniper <span>2019-present</span></h2>
+                        <h2>Independent Full-Stack Web Developer/Software<span>10/2020-Current</span></h2>
+                        <p>Continue to work with my colleagues to work on improving the web application utilizing API, MongoDB to improve managing data to interact with Ecwid and allowing e-commerce companies ease of usage</p>
+                      </div>
+                      <div className="timeline-label">
+                        <h2>Full-Stack Web Developer/Software at StackEductation <span>5/2020-10/2020</span></h2>
                         <p>I recently have joined the Juniper Networs as a Software Developer-Intern in the DevOps team. My major part of the work has been into the field of creating sustainable and flexible CI/CD (Continuous Integration & Continuous Development) pipelines which enables developers at Juniper to do rapid development. I am also exploring the role of container technology like Docker and container-orchrastation technologies like K8s, Swarm to create industry standard production environments.</p>
                       </div>
                     </div>
@@ -32,8 +36,8 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Undergraduation at DAIICT<span>2015-2019</span></h2>
-                        <p>I am pursuing my under-graduation studies with major in I.C.T.(Information & Communication Technology). I have taken courses like DSA, OOPs, Computer Networks, IOT, Web-Data Management over the years and have better understanding of these subjects.I have also been part of S.B.G.(Student Body Govenance) scince my first year of college.</p>
+                        <h2>Director of Rehabilitation and Occupational Therapist in the rehabilitation and healthcare world<span>2004-Current</span></h2>
+                        <p>Using my knowledge of web development to improve company's visibility on the internet to reach people in the community</p>
                       </div>
                     </div>
                   </article>
@@ -43,8 +47,13 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Primary and Higher Education <span>2003-2015</span></h2>
-                        <p>I have completed my higher secondary education with major subjects as Physics,Chemistry & Maths with 91 merit. During my time at school, I have developed interest in solving complex problems of the fundamental physics which helped me to improve my understanding of any problem and also my mathematical skills to actually solve the problems.</p> 
+                        <h2>Certification In Web Development <span>5/2020-10/2020</span></h2>
+                        <p>Languages: JavaScript, HTML, SQL, HTTP, Functional Programming,  JSON</p>
+                        <p>Front End: React.js, CSS, Pug</p>
+                        <p>Back End: Node,js, Express.js</p>
+                        <p>Databases: MySQL, MongoDB</p>
+                        <p>Testing/DevOps: Mocha, Chai, and Sinon, Amazon Web Services</p>
+                        <p>Methodologies: Git version control, RESTful APIs, Test Driven Development Model-View-Controller (MVC Architecture)</p>
                       </div>
                     </div>
                   </article>
